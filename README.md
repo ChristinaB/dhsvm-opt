@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ChristinaB/dhsvm-opt/master)
+
 <h1 align="center">dhsvm-opt - Optimization library for DHSVM</h1>
 
 <div align="center">
